@@ -1,0 +1,51 @@
+body {
+    margin:0;
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    gap:15%;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+    justify-content: center;
+    margin: 8px;
+}
+
+header ul {
+    display: flex;
+    gap: 20px;
+}
+
+ul {
+    list-style-type: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+
+.content {
+    background-color: #1F2937;
+    display: flex;
+
+}
+
+.description {
+    display:flex;
+    align-items:flex-start;
+    justify-content:center;
+}
+
+.descriptiontext {
+    display:flex;
+    align-items:flex-start;
+    justify-content:center;
+}
+

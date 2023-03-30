@@ -40,15 +40,25 @@ ul {
 .row1 {
     display:flex;
     background-color: #1F2937;
-    width: 100%;
-    height: auto;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     color: #F9FAF8;
 }
 
 .presentation {
-    margin: 120px;
+    padding: 120px;
+}
+
+.forest {
+    max-width: 50%;
+    max-height: 50%;
+    display: flex;
+    margin-right: 120px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 h2 {
@@ -57,7 +67,7 @@ h2 {
     color: #F9FAF8;
 }
 
-p {
+.subtext {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -72,12 +82,34 @@ button {
     
 }
 
-img {
-    max-width: 35%;
-    max-height: 35%;
-    display: flex;
-    margin-right: 120px;
+.row2 {
+    display:flex;
+    background-color: #ffffff;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
 }
 
+.title {
+    align-items: center;
+    justify-content: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.itemcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    margin: 50px;
+}
+
+.descritree {
+    text-align: center;
+}
 
 

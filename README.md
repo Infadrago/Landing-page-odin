@@ -1,1 +1,1 @@
-# Landing-page-odin
+Hello ! This is my first attempt at creating a land page using HTML and CSS only, I follow the Odin curriculum to get there and put everything I learned in each course to put together this page. I used flexbox a lot which was very helpful to align and place my content properly. 
